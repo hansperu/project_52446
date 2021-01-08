@@ -18,6 +18,8 @@ Your submission must be in the form of a git repository containing, at a minimum
 
 To enhance your submission, you might consider comparing simple linear regression to other types of regression on this data set. Rest assured, all the above concepts will be explored in lecture videos and other materials in the coming semester.
 
+![imagen eolica](https://www.worldenergytrade.com/images/stories/news/energias_alternativas/I_D_I/3781/3781.jpg)
+
 ## Introduction
 
 Linear regression is a statistical method that tries to model the relationship between a continuous variable and one or more independent variables by fitting a linear equation. It is called simple linear regression when there is only one independent variable and multiple linear regression when there is more than one. Depending on the context, the modeled variable is known as a dependent variable or response variable, and the independent variables as regressors, predictors or features.
